@@ -313,40 +313,23 @@ Processor/coa_project.circ
 
 ## 📸 Screenshots
 
-Add screenshots of the actual Logisim implementation to the
-`Screenshots/` directory.
-
-Recommended screenshots:
-
-```text
-Screenshots/
-├── processor_overview.png
-├── register_file.png
-├── control_unit.png
-├── arithmetic_unit.png
-├── addition.png
-├── subtraction.png
-├── multiplication.png
-├── division.png
-├── logical_operations.png
-└── memory_operations.png
-```
-
 ### Processor Overview
 
-Add the complete processor circuit here.
+<img width="937" height="951" alt="image" src="https://github.com/user-attachments/assets/d1570216-19c0-4461-ba90-f300b4c44e2d" />
 
 ### Arithmetic Unit
 
-Show the arithmetic datapath and operation selection.
+<img width="901" height="787" alt="image" src="https://github.com/user-attachments/assets/97b1ae2e-7f8e-4d27-91dc-26bbfdebb5b1" />
+
 
 ### Multiplication
 
-Show the multiplication experiment/result documented in the project report.
+<img width="901" height="787" alt="image" src="https://github.com/user-attachments/assets/01ec63d9-a0c1-4dfd-9e89-9c86aaf8dc56" />
 
 ### Register File
 
-Show register selection, read/write and result storage.
+<img width="1912" height="977" alt="image" src="https://github.com/user-attachments/assets/1bab9570-2d82-4a27-8866-74729e27919d" />
+
 
 ---
 
