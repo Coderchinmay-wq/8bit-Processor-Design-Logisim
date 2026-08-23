@@ -1,0 +1,18 @@
+# Logisim generated / temporary files
+*.bak
+*.tmp
+*.autosave
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Build / generated files
+build/
+dist/
+out/
