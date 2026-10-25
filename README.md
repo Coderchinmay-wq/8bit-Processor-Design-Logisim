@@ -315,7 +315,7 @@ Processor/coa_project.circ
 
 ### Processor Overview
 
-<img width="937" height="951" alt="image" src="https://github.com/user-attachments/assets/d1570216-19c0-4461-ba90-f300b4c44e2d" />
+<img width="1298" height="1000" alt="COA implementation" src="https://github.com/user-attachments/assets/deac5d25-1c58-46b8-8eb9-9008f0bb9cec" />
 
 ### Arithmetic Unit
 
